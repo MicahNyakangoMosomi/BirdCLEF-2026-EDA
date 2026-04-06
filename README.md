@@ -1,7 +1,7 @@
 # Overview
 The goal of this project is to develop machine learning frameworks capable of identifying understudied species within continuous audio data from Brazil's Pantanal wetlands. 
 Successful solutions will help advance biodiversity monitoring in the last wild places on Earth.
-# Goal of the Competition
+# Goal 
 Conventional biodiversity monitoring across vast, remote regions is expensive and logistically demanding. 
 To help address these challenges, a growing network of 1,000 acoustic recorders is being deployed across the Pantanal, running continuously to capture wildlife sounds across different habitats and seasons. 
 Continuous audio recording allows researchers to capture multi-species soundscapes over extended periods, providing a community-level perspective on biodiversity dynamics. 
